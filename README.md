@@ -1,34 +1,4 @@
-<style>
-    * {
-        font-family: "Roboto Mono", monospace;
-        font-optical-sizing: auto;
-        font-weight: <weight>;
-        font-style: normal;
-        animation: showElement 750ms;
-    }
-    .logo {
-        border-radius: 4px;
-    }
-    .logo-hover {
-        opacity: 0.75;
-        transition: all 100ms ease-in-out;
-        &:hover {
-            box-shadow: 0 0 8px rgba(255, 255, 255, 0.75);
-            opacity: 1;
-            transform: scale(1.05)
-        }
-    }
-    @keyframes showElement {
-        0% {
-            opacity: 0.5;
-            transform: translateX(500px)
-        } 100% {
-            opacity: 1;
-            transform: translateX(0)
-        }
-    }
-</style>
-
+<div style="font-family: 'Roboto Mono', monospace; font-optical-sizing: auto; font-style: normal;">
 <h1>
     <span style="color: #818CF8"> >_</span>
         Hadi Sumanjaya
@@ -51,35 +21,35 @@
     <h2 style="color: #818CF8; margin-top: 25px">02 > TECH STACK</h2>
     <div>
         <h3>FrontEnd</h3>
-        <img class="logo-hover logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-        <img class="logo-hover logo" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img style="border-radius: 4px;" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
     </div>
     <div>
         <h3>BackEnd</h3>
         <div>
-            <img class="logo-hover logo" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-            <img class="logo-hover logo" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-            <img class="logo-hover logo" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-            <img class="logo-hover logo" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-            <img class="logo-hover logo" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
         </div>
     </div>
     <div>
         <h3>Database</h3>
         <div>
-            <img class="logo-hover logo" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-            <img class="logo-hover logo" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+            <img style="border-radius: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         </div>
     </div>
     <div>
         <h3>Other</h3>
         <div>
-             <img class="logo-hover logo" src="https://img.shields.io/badge/REST_API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+             <img style="border-radius: 4px;" src="https://img.shields.io/badge/REST_API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
         </div>
     </div>
 </section>
@@ -105,3 +75,4 @@
         </a>
     </div>
 </section>
+</div>
