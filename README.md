@@ -72,7 +72,6 @@ hadi@kazoosane:~$ ls ~/stack/*
 
 <p>
     <img src="https://img.shields.io/badge/REST_API-6366F1?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
