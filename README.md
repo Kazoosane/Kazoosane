@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="neofetch.svg"></img>
+    <img src="neofetch.svg" style="cursor: default"></img>
 </p>
 
 ---
