@@ -6,17 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=4ADE80&background=0D1117&center=true&vCenter=true&width=720&height=70&lines=%24+whoami;Hadi+Sumanjaya+-+FullStack+Web+Developer;%24+cat+now.txt;Learning+PHP+%26+Laravel;%24+.%2Fbuild_rest_api.sh;Building+REST+APIs" alt="Typing animation" />
 </p>
 
-```text
-    .--.            hadi@kazoosane
-   |o_o |           ------------------
-   |:_/ |           Role       : Full-Stack Web Developer (in progress)
-  //   \ \          School     : SMKN 8 Jakarta
- (|     | )         Major      : Software Engineering
-/'\_   _/`\         Languages  : JavaScript, PHP, TypeScript
-\___)=(___/         Frameworks : Laravel, Express, React
-                    Database   : MySQL, PostgreSQL
-                    Focus      : Frontend, REST API
-```
+<p align="center">
+    <img src="neofetch.svg"></img>
+</p>
 
 ---
 
