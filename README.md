@@ -95,11 +95,6 @@ hadi@kazoosane:~$ git log --stat --author="Kazoosane"
 ```
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kazoosane&show_icons=true&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=818CF8&text_color=C9D1D9&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kazoosane&layout=compact&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=C9D1D9" height="165" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Kazoosane&hide_border=true&background=0D1117&ring=4ADE80&fire=818CF8&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub contribution streak" />
 </p>
 
