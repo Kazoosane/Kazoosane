@@ -91,7 +91,7 @@ hadi@kazoosane:~$ git log --stat --author="Kazoosane"
 ```
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kazoosane&hide_border=true&background=0D1117&ring=4ADE80&fire=818CF8&currStreakLabel=4ADE80&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="70%" alt="GitHub contribution streak" />
+    <img src="https://streak-stats.demolab.com?user=Kazoosane&hide_border=true&background=0B0F19&ring=22D3EE&fire=F97316&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" width="70%" alt="GitHub contribution streak" />
 </p>
 
 ---
